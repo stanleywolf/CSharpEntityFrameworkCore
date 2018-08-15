@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.deps.json
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.pdb
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.Models.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_FootballBetting.Data.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_FootballBetting.Data.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_FootballBetting.Data.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_FootballBetting.Data.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting.Data\obj\Debug\netcoreapp2.0\P03_FootballBetting.Data.pdb

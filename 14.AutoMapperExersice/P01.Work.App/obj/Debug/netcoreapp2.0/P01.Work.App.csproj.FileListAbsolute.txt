@@ -1,0 +1,17 @@
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.App.deps.json
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.App.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.App.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.App.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.App.pdb
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\obj\Debug\netcoreapp2.0\P01.Work.App.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\obj\Debug\netcoreapp2.0\P01.Work.App.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\obj\Debug\netcoreapp2.0\P01.Work.App.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\obj\Debug\netcoreapp2.0\P01.Work.App.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\obj\Debug\netcoreapp2.0\P01.Work.App.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\obj\Debug\netcoreapp2.0\P01.Work.App.pdb
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.Data.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.Models.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.Services.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.Data.pdb
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.Models.pdb
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.App\bin\Debug\netcoreapp2.0\P01.Work.Services.pdb

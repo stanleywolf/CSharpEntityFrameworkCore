@@ -1,0 +1,9 @@
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\bin\Debug\netcoreapp2.0\P01.Work.Models.deps.json
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\bin\Debug\netcoreapp2.0\P01.Work.Models.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\bin\Debug\netcoreapp2.0\P01.Work.Models.pdb
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\obj\Debug\netcoreapp2.0\P01.Work.Models.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\obj\Debug\netcoreapp2.0\P01.Work.Models.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\obj\Debug\netcoreapp2.0\P01.Work.Models.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\obj\Debug\netcoreapp2.0\P01.Work.Models.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\obj\Debug\netcoreapp2.0\P01.Work.Models.dll
+F:\Visual Project\C# EntityFramework\14.AutoMapperExersice\P01.Work.Models\obj\Debug\netcoreapp2.0\P01.Work.Models.pdb

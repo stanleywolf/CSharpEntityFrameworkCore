@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1">
+  <LibraryName>Samokov Library</LibraryName>
+  <books>
+    <book>
+      <bookTitle>It</bookTitle>
+      <author>Stephen King</author>
+      <isbn>Horror</isbn>
+    </book>
+    <book>
+      <bookTitle>Learn to be good coder</bookTitle>
+      <author>S.Nikolov</author>
+      <isbn>Fantastic</isbn>
+    </book>
+  </books>
+</library>

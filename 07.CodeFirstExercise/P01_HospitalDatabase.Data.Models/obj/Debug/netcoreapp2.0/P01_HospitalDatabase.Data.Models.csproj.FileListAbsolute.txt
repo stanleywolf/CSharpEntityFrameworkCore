@@ -1,0 +1,9 @@
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.deps.json
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase.Data.Models\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb

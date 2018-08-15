@@ -1,0 +1,10 @@
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+F:\Visual Project\C# EntityFramework\25.ExamPreperationTwo\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb

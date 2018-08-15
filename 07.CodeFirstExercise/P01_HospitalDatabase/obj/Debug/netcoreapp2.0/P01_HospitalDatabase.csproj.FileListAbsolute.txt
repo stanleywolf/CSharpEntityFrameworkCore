@@ -1,0 +1,17 @@
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.pdb
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+F:\Visual Project\C# EntityFramework\07.CodeFirstExercise\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb

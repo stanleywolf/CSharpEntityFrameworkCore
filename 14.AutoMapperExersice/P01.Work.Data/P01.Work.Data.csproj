@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20180723113917_addManager.cs" />
+    <Compile Remove="Migrations\20180723114100_addManager.cs" />
+    <Compile Remove="Migrations\20180723114217_addManager.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.tools" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P01.Work.Models\P01.Work.Models.csproj" />
+  </ItemGroup>
+
+</Project>

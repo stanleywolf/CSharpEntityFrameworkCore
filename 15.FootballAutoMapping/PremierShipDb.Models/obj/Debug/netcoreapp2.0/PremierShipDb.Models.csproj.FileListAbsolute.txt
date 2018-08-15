@@ -1,0 +1,9 @@
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\bin\Debug\netcoreapp2.0\PremierShipDb.Models.deps.json
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\bin\Debug\netcoreapp2.0\PremierShipDb.Models.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\bin\Debug\netcoreapp2.0\PremierShipDb.Models.pdb
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\obj\Debug\netcoreapp2.0\PremierShipDb.Models.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\obj\Debug\netcoreapp2.0\PremierShipDb.Models.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\obj\Debug\netcoreapp2.0\PremierShipDb.Models.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\obj\Debug\netcoreapp2.0\PremierShipDb.Models.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\obj\Debug\netcoreapp2.0\PremierShipDb.Models.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.Models\obj\Debug\netcoreapp2.0\PremierShipDb.Models.pdb

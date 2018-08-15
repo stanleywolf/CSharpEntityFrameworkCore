@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<album>
+		<name>Nobody's Perfect</name>
+		<artist>Jessie J</artist>
+		<year>2014</year>
+		<producer>Stanislav Nikolov</producer>
+		<price>19.99</price>
+		<songs>
+			<title>Nobody's Perfect</title>
+			<duration>3.48</duration>
+		</songs>
+		<songs>
+			<title>Flashlight</title>
+			<duration>4.15</duration>
+		</songs>
+		<songs>
+			<title>Who you are?</title>
+			<duration>4.25</duration>
+		</songs>
+	</album>
+	<album>
+		<name>California Love</name>
+		<artist>2 PAC</artist>
+		<year>2002</year>
+		<producer>Stanislav Nikolov</producer>
+		<price>29.99</price>
+		<songs>
+			<title>Dear Mamma</title>
+			<duration>3.55</duration>
+		</songs>
+		<songs>
+			<title>Do for love</title>
+			<duration>4.45</duration>
+		</songs>
+		<songs>
+			<title>Heartz of man</title>
+			<duration>4.05</duration>
+		</songs>
+	</album>
+</catalog>

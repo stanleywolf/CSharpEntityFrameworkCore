@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\bin\Debug\netcoreapp2.0\01.CodeFirst.deps.json
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\bin\Debug\netcoreapp2.0\01.CodeFirst.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\bin\Debug\netcoreapp2.0\01.CodeFirst.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\bin\Debug\netcoreapp2.0\01.CodeFirst.dll
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\bin\Debug\netcoreapp2.0\01.CodeFirst.pdb
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\obj\Debug\netcoreapp2.0\01.CodeFirst.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\obj\Debug\netcoreapp2.0\01.CodeFirst.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\obj\Debug\netcoreapp2.0\01.CodeFirst.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\obj\Debug\netcoreapp2.0\01.CodeFirst.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\obj\Debug\netcoreapp2.0\01.CodeFirst.dll
+F:\Visual Project\C# EntityFramework\06.CoreFirst\01.CodeFirst\obj\Debug\netcoreapp2.0\01.CodeFirst.pdb

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<student>
+	<name>Stanislav Nikolov</name>
+	<gender>Male</gender>
+	<birthDate>1982/05/28</birthDate>
+	<phoneNumber>0888789344</phoneNumber>
+	<email>stanleyOffer@gmail.com</email>
+	<university>SoftUni</university>
+	<specialty>C# Programmer</specialty>
+	<facultyNumber>123456789</facultyNumber>
+	<exams>
+		<name>C# Basic</name>
+		<dateTaken>2017/08/15</dateTaken>
+		<grade>6.00</grade>
+	</exams>
+	<exams>
+		<name>C# Fundamentals</name>
+		<dateTaken>2017/12/07</dateTaken>
+		<grade>5.48</grade>
+	</exams>
+	<exams>
+		<name>Software Technologies</name>
+		<dateTaken>2018/02/15</dateTaken>
+		<grade>5.78</grade>
+	</exams>
+</student>

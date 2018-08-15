@@ -1,0 +1,17 @@
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.App.deps.json
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.App.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.App.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.App.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.App.pdb
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\obj\Debug\netcoreapp2.0\PremierShipDb.App.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\obj\Debug\netcoreapp2.0\PremierShipDb.App.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\obj\Debug\netcoreapp2.0\PremierShipDb.App.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\obj\Debug\netcoreapp2.0\PremierShipDb.App.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\obj\Debug\netcoreapp2.0\PremierShipDb.App.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\obj\Debug\netcoreapp2.0\PremierShipDb.App.pdb
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.Data.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.Models.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.Services.dll
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.Data.pdb
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.Models.pdb
+F:\Visual Project\C# EntityFramework\15.FootballAutoMapping\PremierShipDb.App\bin\Debug\netcoreapp2.0\PremierShipDb.Services.pdb

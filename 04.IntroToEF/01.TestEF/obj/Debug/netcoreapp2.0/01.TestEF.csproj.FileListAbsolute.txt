@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\bin\Debug\netcoreapp2.0\01.TestEF.deps.json
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\bin\Debug\netcoreapp2.0\01.TestEF.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\bin\Debug\netcoreapp2.0\01.TestEF.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\bin\Debug\netcoreapp2.0\01.TestEF.dll
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\obj\Debug\netcoreapp2.0\01.TestEF.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\obj\Debug\netcoreapp2.0\01.TestEF.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\obj\Debug\netcoreapp2.0\01.TestEF.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\obj\Debug\netcoreapp2.0\01.TestEF.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\bin\Debug\netcoreapp2.0\01.TestEF.pdb
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\obj\Debug\netcoreapp2.0\01.TestEF.dll
+F:\Visual Project\C# EntityFramework\04.IntroToEF\01.TestEF\obj\Debug\netcoreapp2.0\01.TestEF.pdb

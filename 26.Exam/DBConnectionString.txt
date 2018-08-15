@@ -1,0 +1,23 @@
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design
+
+Scaffold-DbContext -Connection "Server=STANCHO-PC\SQLEXPRESS01;Database=SoftUni;Integrated Security=True" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models
+
+Uninstall-Package Microsoft.EntityFrameworkCore.Tools -RemoveDependencies
+Uninstall-Package Microsoft.EntityFrameworkCore.SqlServer.Design -RemoveDependencies
+
+Install-Package AutoMapper
+
+//IServiceProvider
+Install-Package Microsoft.extensions.dependencyinjection - StartUp
+//IServiceProvider AddAutoMapper
+Install-Package automapper.extensions.Microsoft.dependencyinjection
+
+
+ScriptDeleteBinObj
+https://pastebin.com/XZmwk1ss
+
+//json
+install-package newtonsoft.json

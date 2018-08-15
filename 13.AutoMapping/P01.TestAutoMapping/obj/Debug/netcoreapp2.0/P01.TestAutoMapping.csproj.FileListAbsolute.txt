@@ -1,0 +1,15 @@
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\obj\Debug\netcoreapp2.0\P01.TestAutoMapping.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\obj\Debug\netcoreapp2.0\P01.TestAutoMapping.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\obj\Debug\netcoreapp2.0\P01.TestAutoMapping.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\obj\Debug\netcoreapp2.0\P01.TestAutoMapping.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.deps.json
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.dll
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.pdb
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.Data.dll
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.Data.Models.dll
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\bin\Debug\netcoreapp2.0\P01.TestAutoMapping.Data.pdb
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\obj\Debug\netcoreapp2.0\P01.TestAutoMapping.dll
+F:\Visual Project\C# EntityFramework\13.AutoMapping\P01.TestAutoMapping\obj\Debug\netcoreapp2.0\P01.TestAutoMapping.pdb

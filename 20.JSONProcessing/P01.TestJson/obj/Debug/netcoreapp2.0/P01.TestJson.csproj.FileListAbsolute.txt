@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\bin\Debug\netcoreapp2.0\P01.TestJson.deps.json
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\bin\Debug\netcoreapp2.0\P01.TestJson.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\bin\Debug\netcoreapp2.0\P01.TestJson.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\bin\Debug\netcoreapp2.0\P01.TestJson.dll
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\obj\Debug\netcoreapp2.0\P01.TestJson.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\obj\Debug\netcoreapp2.0\P01.TestJson.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\obj\Debug\netcoreapp2.0\P01.TestJson.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\obj\Debug\netcoreapp2.0\P01.TestJson.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\bin\Debug\netcoreapp2.0\P01.TestJson.pdb
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\obj\Debug\netcoreapp2.0\P01.TestJson.dll
+F:\Visual Project\C# EntityFramework\20.JSONProcessing\P01.TestJson\obj\Debug\netcoreapp2.0\P01.TestJson.pdb

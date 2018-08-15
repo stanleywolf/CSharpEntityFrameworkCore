@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\bin\Debug\netcoreapp2.0\01.Tester.deps.json
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\bin\Debug\netcoreapp2.0\01.Tester.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\bin\Debug\netcoreapp2.0\01.Tester.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\bin\Debug\netcoreapp2.0\01.Tester.dll
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\obj\Debug\netcoreapp2.0\01.Tester.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\obj\Debug\netcoreapp2.0\01.Tester.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\obj\Debug\netcoreapp2.0\01.Tester.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\obj\Debug\netcoreapp2.0\01.Tester.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\bin\Debug\netcoreapp2.0\01.Tester.pdb
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\obj\Debug\netcoreapp2.0\01.Tester.dll
+F:\Visual Project\C# EntityFramework\01.IntroductionToEntityFramework\01.Tester\obj\Debug\netcoreapp2.0\01.Tester.pdb

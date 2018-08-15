@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="automapper.extensions.Microsoft.dependencyinjection" Version="4.0.1" />
+    <PackageReference Include="Microsoft.extensions.dependencyinjection" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P01.Work.Data\P01.Work.Data.csproj" />
+    <ProjectReference Include="..\P01.Work.Models\P01.Work.Models.csproj" />
+    <ProjectReference Include="..\P01.Work.Services\P01.Work.Services.csproj" />
+  </ItemGroup>
+
+</Project>

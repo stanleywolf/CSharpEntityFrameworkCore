@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.deps.json
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+F:\Visual Project\C# EntityFramework\05.RepeatAgain\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb

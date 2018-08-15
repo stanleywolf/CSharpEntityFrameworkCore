@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\bin\Debug\netcoreapp2.0\P01.TestXML.deps.json
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\bin\Debug\netcoreapp2.0\P01.TestXML.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\bin\Debug\netcoreapp2.0\P01.TestXML.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\bin\Debug\netcoreapp2.0\P01.TestXML.dll
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\bin\Debug\netcoreapp2.0\P01.TestXML.pdb
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\obj\Debug\netcoreapp2.0\P01.TestXML.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\obj\Debug\netcoreapp2.0\P01.TestXML.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\obj\Debug\netcoreapp2.0\P01.TestXML.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\obj\Debug\netcoreapp2.0\P01.TestXML.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\obj\Debug\netcoreapp2.0\P01.TestXML.dll
+F:\Visual Project\C# EntityFramework\17.XMLProcessing\P01.TestXML\obj\Debug\netcoreapp2.0\P01.TestXML.pdb

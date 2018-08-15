@@ -1,0 +1,13 @@
+F:\Visual Project\C# EntityFramework\07.Initializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\07.Initializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\07.Initializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\07.Initializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.deps.json
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.dll
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.pdb
+F:\Visual Project\C# EntityFramework\07.Initializer\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\07.Initializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.dll
+F:\Visual Project\C# EntityFramework\07.Initializer\obj\Debug\netcoreapp2.0\HospitalDatabaseInitializer.pdb

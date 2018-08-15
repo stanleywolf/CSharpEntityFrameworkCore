@@ -1,0 +1,157 @@
+[
+  {
+    "Id": 1,
+    "Name": "3M Company",
+    "PartsCount": 4
+  },
+  {
+    "Id": 2,
+    "Name": "VF Corporation",
+    "PartsCount": 3
+  },
+  {
+    "Id": 3,
+    "Name": "Textron Inc",
+    "PartsCount": 6
+  },
+  {
+    "Id": 4,
+    "Name": "Sunoco Inc.",
+    "PartsCount": 3
+  },
+  {
+    "Id": 5,
+    "Name": "Saks Inc",
+    "PartsCount": 3
+  },
+  {
+    "Id": 6,
+    "Name": "Paychex Inc",
+    "PartsCount": 4
+  },
+  {
+    "Id": 7,
+    "Name": "Olin Corp.",
+    "PartsCount": 3
+  },
+  {
+    "Id": 8,
+    "Name": "Nicor Inc",
+    "PartsCount": 5
+  },
+  {
+    "Id": 9,
+    "Name": "Merck & Co., Inc.",
+    "PartsCount": 5
+  },
+  {
+    "Id": 10,
+    "Name": "Level 3 Communications Inc.",
+    "PartsCount": 6
+  },
+  {
+    "Id": 11,
+    "Name": "IDT Corporation",
+    "PartsCount": 3
+  },
+  {
+    "Id": 12,
+    "Name": "GenCorp Inc.",
+    "PartsCount": 5
+  },
+  {
+    "Id": 13,
+    "Name": "Emcor Group Inc.",
+    "PartsCount": 2
+  },
+  {
+    "Id": 14,
+    "Name": "E*Trade Group, Inc.",
+    "PartsCount": 6
+  },
+  {
+    "Id": 15,
+    "Name": "Wyeth",
+    "PartsCount": 2
+  },
+  {
+    "Id": 16,
+    "Name": "E.I. Du Pont de Nemours and Company",
+    "PartsCount": 6
+  },
+  {
+    "Id": 17,
+    "Name": "The Clorox Co.",
+    "PartsCount": 5
+  },
+  {
+    "Id": 18,
+    "Name": "CMGI Inc.",
+    "PartsCount": 7
+  },
+  {
+    "Id": 19,
+    "Name": "CNF Inc.",
+    "PartsCount": 7
+  },
+  {
+    "Id": 20,
+    "Name": "Cintas Corp.",
+    "PartsCount": 4
+  },
+  {
+    "Id": 21,
+    "Name": "Chubb Corp",
+    "PartsCount": 2
+  },
+  {
+    "Id": 22,
+    "Name": "Cintas Corp.",
+    "PartsCount": 4
+  },
+  {
+    "Id": 23,
+    "Name": "Casey's General Stores Inc.",
+    "PartsCount": 4
+  },
+  {
+    "Id": 24,
+    "Name": "Caterpillar Inc.",
+    "PartsCount": 5
+  },
+  {
+    "Id": 25,
+    "Name": "Big Lots, Inc.",
+    "PartsCount": 2
+  },
+  {
+    "Id": 26,
+    "Name": "Atmel Corporation",
+    "PartsCount": 7
+  },
+  {
+    "Id": 27,
+    "Name": "Airgas, Inc.",
+    "PartsCount": 6
+  },
+  {
+    "Id": 28,
+    "Name": "Anthem, Inc.",
+    "PartsCount": 4
+  },
+  {
+    "Id": 29,
+    "Name": "Agway Inc.",
+    "PartsCount": 3
+  },
+  {
+    "Id": 30,
+    "Name": "Danaher Corporation",
+    "PartsCount": 1
+  },
+  {
+    "Id": 31,
+    "Name": "Zale",
+    "PartsCount": 4
+  }
+]

@@ -1,0 +1,9 @@
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\bin\Debug\netcoreapp2.0\P01.Test.Data.Models.deps.json
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\bin\Debug\netcoreapp2.0\P01.Test.Data.Models.dll
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\bin\Debug\netcoreapp2.0\P01.Test.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\obj\Debug\netcoreapp2.0\P01.Test.Data.Models.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\obj\Debug\netcoreapp2.0\P01.Test.Data.Models.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\obj\Debug\netcoreapp2.0\P01.Test.Data.Models.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\obj\Debug\netcoreapp2.0\P01.Test.Data.Models.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\obj\Debug\netcoreapp2.0\P01.Test.Data.Models.dll
+F:\Visual Project\C# EntityFramework\11.AdvancedQuerying\P01.Test.Data.Models\obj\Debug\netcoreapp2.0\P01.Test.Data.Models.pdb

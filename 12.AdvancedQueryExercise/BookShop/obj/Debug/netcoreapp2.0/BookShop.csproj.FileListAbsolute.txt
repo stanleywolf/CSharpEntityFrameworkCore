@@ -1,0 +1,17 @@
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.deps.json
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop\obj\Debug\netcoreapp2.0\BookShop.pdb

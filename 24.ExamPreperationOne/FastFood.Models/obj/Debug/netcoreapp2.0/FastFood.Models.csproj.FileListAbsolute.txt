@@ -1,0 +1,9 @@
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\bin\Debug\netcoreapp2.0\FastFood.Models.deps.json
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\bin\Debug\netcoreapp2.0\FastFood.Models.dll
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\bin\Debug\netcoreapp2.0\FastFood.Models.pdb
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\obj\Debug\netcoreapp2.0\FastFood.Models.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\obj\Debug\netcoreapp2.0\FastFood.Models.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\obj\Debug\netcoreapp2.0\FastFood.Models.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\obj\Debug\netcoreapp2.0\FastFood.Models.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\obj\Debug\netcoreapp2.0\FastFood.Models.dll
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Models\obj\Debug\netcoreapp2.0\FastFood.Models.pdb

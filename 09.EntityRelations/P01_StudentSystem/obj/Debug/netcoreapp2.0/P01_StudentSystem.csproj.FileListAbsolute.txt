@@ -1,0 +1,15 @@
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.deps.json
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.dll
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.pdb
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.dll
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.dll
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\bin\Debug\netcoreapp2.0\P01_StudentSystem.Data.pdb
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.dll
+F:\Visual Project\C# EntityFramework\09.EntityRelations\P01_StudentSystem\obj\Debug\netcoreapp2.0\P01_StudentSystem.pdb

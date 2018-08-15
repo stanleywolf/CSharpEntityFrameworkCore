@@ -1,0 +1,13 @@
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+F:\Visual Project\C# EntityFramework\12.AdvancedQueryExercise\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb

@@ -1,0 +1,15 @@
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.deps.json
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.Models.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.Models.pdb
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.pdb
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.dll
+F:\Visual Project\C# EntityFramework\09.TableRelationFB\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.pdb

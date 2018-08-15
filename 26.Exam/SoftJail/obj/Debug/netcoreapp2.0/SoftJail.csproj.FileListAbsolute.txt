@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+F:\Visual Project\C# EntityFramework\26.Exam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb

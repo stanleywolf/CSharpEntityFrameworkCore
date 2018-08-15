@@ -1,0 +1,11 @@
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Data.deps.json
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Data.dll
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Data.pdb
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Models.dll
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\bin\Debug\netcoreapp2.0\FastFood.Models.pdb
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.AssemblyInfoInputs.cache
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.AssemblyInfo.cs
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.dll
+F:\Visual Project\C# EntityFramework\24.ExamPreperationOne\FastFood.Data\obj\Debug\netcoreapp2.0\FastFood.Data.pdb
